@@ -4,7 +4,7 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './app.css'
 
-const sum = (x: number, y: number): number => x + y;
+// const sum = (x: number, y: number): number => x + y;
 
 export function App() {
   const [count, setCount] = useState(0);
